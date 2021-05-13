@@ -15,7 +15,7 @@ import utils as ut
 ut.split_train_test(socar_rd_cp)
 
 """
-# Authors : dokyum <github.com/dockyum>
+# Authors : dockyum <github.com/dockyum>
 #           EbraLim <github.com/EbraLim>
 #           ryuseunghwan1 <github.com/ryuseunghwan1>
 
